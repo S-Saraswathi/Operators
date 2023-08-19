@@ -7,14 +7,13 @@ using namespace std;
 int main() {
 
 //Program-2
-    /*bool image_colour=true;
+    bool image_colour=true;
     if(image_colour){
         cout<<"Yes, the image is colourful"<<endl;
     }
     else{
         cout<<"Image is black and white"<<endl;
     }
-    */
     /*OUTPUT
     PS D:\Sem-3> cd "d:\Sem-3\" ; if ($?) { g++ exp2_23.cpp -o exp2_23 } ; if ($?) { .\exp2_23 }
     Yes, the image is colourful */
