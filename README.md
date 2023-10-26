@@ -39,3 +39,5 @@ An operator in programming is a symbol or set of symbols, that designates a part
   |     &&    | Logical AND |
   | || | Logical OR |
   | ! | Logical NOT |
+- **BITWISE OPERATORS**
+  <br>To understand more about bitwise operators check this repository - [Bitwise Operators](https://github.com/S-Saraswathi/Bitwise_Operation.git)
